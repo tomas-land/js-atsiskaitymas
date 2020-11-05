@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/utilities/_normalize.scss",
+        "../scss/utilities/_variables.scss",
+        "../scss/utilities/_mixins.scss",
+        "../scss/pages/_home.scss",
+        "../scss/layout/_header.scss",
+        "../scss/layout/_footer.scss",
+        "../scss/components/_card.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
